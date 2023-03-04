@@ -1,5 +1,8 @@
 <resources>
     <string name="app_name">WorkshopMobile</string>
+    <string name="home">Home</string>
+    <string name="profile">Profile</string>
+    <string name="settings">Settings</string>
     <string name="image_description">Image</string>
     <string name="author_name">Alif Triadi</string>
     <string name="author_email">alftri.dev@gmail.com</string>
